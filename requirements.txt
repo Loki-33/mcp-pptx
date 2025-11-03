@@ -1,0 +1,4 @@
+mcp 
+llama-cpp-python
+python-pptx 
+exa-py
