@@ -11,8 +11,9 @@ server.py -> this file contains the mcp server. <br>
 client1.py -> this file contains the code for multi-tool calling (NOT DONE YET, SOME BUGS STILL). <br>
 
 ## USAGE 
-1. Run the server.py file 
-2. Run the client.py file 
+1. install the requirements using `pip install -r requirements.txt`
+2. Run the server.py file 
+3. Run the client.py file 
 
 Then you will see a presentation.pptx file created in your directory. <br>
 
